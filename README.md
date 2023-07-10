@@ -8,15 +8,9 @@ Hateful comments can affect people’s physical and mental health. This is somet
 
 ## Tech Stack
 * __Front-end__
-    - Android Studio/Visual studio code
+    - Android Studio/Visual Studio code
     - React JS
     - Flask
 * __Back-end__
   - Python
   
-## Screenshots
-![inCollage_20201116_174306669](https://user-images.githubusercontent.com/54657980/101201537-eaa67c00-368d-11eb-8e2a-f4671ffa86f1.jpg)
-![inCollage_20201116_174612993](https://user-images.githubusercontent.com/54657980/101201542-ed08d600-368d-11eb-8bb1-5589240e50bb.jpg)
-
-## Demo Video
-https://youtu.be/dTywQVRTCKo
