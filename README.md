@@ -24,4 +24,10 @@ Hateful comments can affect people’s physical and mental health. We have come 
 * __Back-end__
   - Python
 ## Screenshot
+### Screenshot of the warning to the user
+<img src="https://github.com/sharu606/Cyberbullying/blob/b57b12eda94334cdd06c91383a08afdecd4b3336/images/Screenshot%20(586).png" height="400"/>
+### If the user selects "Yes", all the Low-severity hateful comments are removed from view.
+<img src="https://github.com/sharu606/Cyberbullying/blob/b57b12eda94334cdd06c91383a08afdecd4b3336/images/Screenshot%20(590).png" height="400"/>
+### If the user selects "No", all the Low-severity hateful comments are displayed with a "Hate" tag.
+<img src="https://github.com/sharu606/Cyberbullying/blob/b57b12eda94334cdd06c91383a08afdecd4b3336/images/Screenshot%20(584).png" height="400"/>
   
