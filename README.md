@@ -12,6 +12,10 @@ Hateful comments can affect people’s physical and mental health. We have come 
 * Actions are taken based on their severity.
   - High-severity hateful comments are automatically removed from display.
   - Low-severity hateful comments are tagged as "Hate" and users are given a choice to either remove them from view or view them.
+ 
+## Modules
+<img src="https://github.com/sharu606/Cyberbullying/blob/0849c39db867535f0997b5985fe7069a8ab8269a/Untitled%20(4).png" height="500"/>
+
 ## Tech Stack
 * __Front-end__
     - Android Studio/Visual Studio Code
