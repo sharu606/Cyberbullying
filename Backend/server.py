@@ -170,6 +170,10 @@ def preprocess(comment):
 model, hateComments, hateVectorizer = classifyPhaseOne('dataset.json')
 rfc, vectorizer = classifyPhaseTwo(hateComments)
 
+@app.route('/')
+def dummy():
+    return {}
+
 
 final = []
 # Route for seeing a data
